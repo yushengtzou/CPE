@@ -14,7 +14,7 @@ The goal of practicing Kata is not solving problems since we already solved it b
 
 ### Daily Practice
 
-Just as a surgeon practices with the same level of focus and precision whether in a training environment or the operating room, we believe that programmers should also train diligently. <u>Through repeated practice, we aim to reach a level of proficiency where writing clean, efficient, and bug-free code becomes second nature</u>.
+Just as a surgeon practices with the same level of focus and precision whether in a training environment or the operating room, we believe that programmers should also train diligently. Through repeated practice, we aim to reach a level of proficiency where writing clean, efficient, and bug-free code becomes second nature.
 
 ### Commitment to Craftsmanship
 
