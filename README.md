@@ -1,6 +1,6 @@
 # Coding Notes
 
-This repository contains coding notes and exercises for preparing for the Collegiate Programming Examination (CPE).
+This repo is the harbour of my code for solving UVa Online Judge problems and Leetcode. It's purpose is to prepare for the Collegiate Programming Examination (CPE) and IT company interview.
 
 ## The Professionalism of a Programmer
 
