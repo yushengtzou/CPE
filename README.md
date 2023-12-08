@@ -4,13 +4,13 @@ This repo is the harbour of my code for solving UVa Online Judge problems and Le
 
 ## The Professionalism of a Programmer
 
-To become a proficient programmer, consistent practice is essential. This repository emphasizes the practice of "Kata."
+To become a proficient programmer, consistent practice is essential. This repo also emphasizes the practice of "Kata."
 
 ### What is Kata?
 
-Kata (形) is a term borrowed from Japanese martial arts, which refers to a detailed choreographed pattern of movements. In the context of programming, we adapt this concept to mean small, self-contained coding exercises that we practice regularly. 
+Kata (形) is a term borrowed from Japanese martial arts, which refers to a detailed choreographed pattern of movements. In the context of programming, we adapt this concept to mean `small, self-contained coding exercises` that we practice regularly. 
 
-The goal of practicing Kata is not to solve problems but to train our brains and fingers, allowing programming skills to become instinctive. This approach mirrors the craftsmanship ethos we uphold — similar to how surgeons practice surgical procedures daily to ensure precision and efficiency.
+The goal of practicing Kata is not to solve problems but to `train our brains and fingers` since we already solved it, allowing programming skills to become instinctive. This approach mirrors the craftsmanship ethos we uphold — similar to how surgeons practice surgical procedures daily to ensure precision and efficiency.
 
 ### Daily Practice
 
