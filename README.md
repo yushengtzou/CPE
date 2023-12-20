@@ -3,12 +3,12 @@
 This repo is the harbour of my code for solving UVa Online Judge problems and Leetcode. Its purpose is to prepare for the Collegiate Programming Examination (CPE) and IT company interview.
 
 
-# CPE
-## 萬能標頭檔
+## CPE
+### 萬能標頭檔
 ```cpp
 #include<bits/stdc++.h>
 ```
-## 需複習的
+### 需複習的
 10268(考前再練一次)   
 11728(如果正著推很難算就用逆推的!)   
 437(要懂得是演算法的精華而不是直接套用!)  
@@ -22,8 +22,8 @@ This repo is the harbour of my code for solving UVa Online Judge problems and Le
 1207(LCD變化題)  
 
 
-## 基本用法
-### 使用 stringstream 與 getline 做字串分割
+### 基本用法
+#### 使用 stringstream 與 getline 做字串分割
 ```python
 stringstream ss(str);
 while(getline(ss, dir, ' ')){ // 以' '做分割
@@ -32,7 +32,7 @@ while(getline(ss, dir, ' ')){ // 以' '做分割
 	i++;
 }
 ```
-### int to string
+#### int to string
 ```python
 to_string(val)
 ```
