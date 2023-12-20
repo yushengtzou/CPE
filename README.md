@@ -1,10 +1,10 @@
-# Coding Notes
+# CPE
 
-This repo is the harbour of my code for solving UVa Online Judge problems and Leetcode. Its purpose is to prepare for the Collegiate Programming Examination (CPE) and IT company interview.
+This repo is the harbour of my code for solving UVa Online Judge problems. Its purpose is to prepare for the Collegiate Programming Examination (CPE).
 
 A part of the README.md is a fork from <a href=https://github.com/YuTing-Fang1999/CPE>YuTing-Fang1999/CPE</a> 
 
-# CPE
+
 ## 萬能標頭檔
 ```cpp
 #include<bits/stdc++.h>
