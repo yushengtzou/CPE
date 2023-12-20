@@ -39,9 +39,6 @@ int main() {
         result = distToPoint2 - distToPoint1;
 
         cout << "Case " << i << ": " << result << endl;
-
     }
-
-
 
 }

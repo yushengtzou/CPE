@@ -29,8 +29,6 @@ string commonPermutation(string &firstWord, string &secondWord) {
     }
 
     return result;
-
-
 }
 
 

@@ -16,7 +16,6 @@ int main() {
     vector<string> matrix;
 
     cin >> T;
-
     while(T--) {
         cin >> M >> N >> Q;
         cin.ignore();
@@ -24,7 +23,6 @@ int main() {
             getline(cin, word);
             matrix.push_back(word);
         }
-
         cout << M << " " << N << " " << Q << endl;
 
         while(Q--) {
@@ -54,9 +52,7 @@ int main() {
         }
         matrix.clear();
 
-
     }
-
 
 }
 
