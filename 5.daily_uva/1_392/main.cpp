@@ -22,6 +22,12 @@ int main()
             cout << coeff << endl;
         }
 
+        for (auto coeff : coeffs) {
+            cout << coeff << endl;
+        }
+        " + "
+        " - "
+
 
         x^8 + x^7 + x^6 + x^5 + 22x^4 - 333x^3 + x^2 + x - 1
 
